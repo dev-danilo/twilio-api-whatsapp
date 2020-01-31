@@ -9,7 +9,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com), [Node
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/danilo49/api-Whatsapp
+$ git clone https://github.com/danilo49/twilio-api-whatsapp.git
 
 # Go into the repository
 $ cd api-Whatsapp
