@@ -1,0 +1,12 @@
+{
+  "name": "sendmessage2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "node sendmessage.js"
+  },
+  "devDependencies": {
+    "twilio-run": "^2.2.0"
+  }
+}
