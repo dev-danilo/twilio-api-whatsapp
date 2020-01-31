@@ -17,6 +17,7 @@ $ cd api-Whatsapp
 # Install dependencies
 $ yarn init -y
 $ yarn add -D twilio-run
+$ code .
 
 # Your Account Sid and Auth Token from twilio.com/console
 # Paste Account Sid and Auth Token in sendmessage.js in their respective variables
