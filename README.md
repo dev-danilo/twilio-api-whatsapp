@@ -26,6 +26,10 @@ $ code .
 $ yarn dev
 
 ```
+## :memo: License
+This project is under the MIT license. See the [LICENSE](https://github.com/danilo49/twilio-api-whatsapp/blob/master/LICENSE) for more information.
+
+---
 ---
 
 Made with ♥ by Danilo Pereira :wave: [Get in touch!](https://www.linkedin.com/in/danilopx/)
