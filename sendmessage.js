@@ -2,8 +2,8 @@
 // Your Account Sid and Auth Token from twilio.com/console
 // DANGER! This is insecure. See http://twil.io/secure
 
-const accountSid = 'AC31c02e8dc24f3f9bb592451f09e5c86f';
-const authToken = '8efdf9b8960d21fd8d0013a3f6975865';
+const accountSid = 'Your Account Sid from twilio.com/console';
+const authToken = 'Auth Token from twilio.com/console';
 
 var twilio = require('twilio');
 
